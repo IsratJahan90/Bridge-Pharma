@@ -1,0 +1,63 @@
+Live------------->>>>
+http://15.235.163.177:12002/
+superadmin
+Password: BP224477/p2345
+
+
+Test----------->>>>>>>
+http://staging-bridge.babl.xyz/
+superadmin
+Password: p2345
+
+Master Data->all data create 
+
+"Doctor index" create korte hoi "DO" diye login kore->Master data->Doctor index
+
+Admin->Factory stock->downoad, After download, give the "stock qty" & upload
+Factory stock->Stock index->Present Stock*Unit (TP)==Stock Value 
+
+Depot a stock nitey hobe, tai 
+login->Web with DO->Sales order->primary order->order create & save
+Login->web->DSM->sales order->primary order->edit/update & approved 
+Login->web->Factory Production Manager->sales order->primary order->approved
+
+Login->web->DO->sales order->primary->approve & good receive->
+Depot stock->only search & show -> 
+target->download & upload
+approve er jonno superadmin diye login
+Login->superadmin->Target->approve
+
+Login->APK->MO->order
+Login->web->DO->Sales order->secondary order->order index->Approve
+
+jodi stock kom thake tahole shey approve korte parbe na.
+
+Chemist verify-> "apk"->MO-> theke "verify chemist"
+then again back to "DO"->master data->Chemist index->search & approved
+
+Login->web->DO->Sales order->Secondary order->Order index->"create order"->already apk theke order korle only "Search".....
+Noyto ei jaiga thekeo order kora jai & apk (MO) thkeo order kora jai
+Login->web->DO->Sales order->Secondary order->Order index->"Delivery tab"->"create loading sheet"->delivery->challan code dekhte hobe
+
+Apk->MO->payment->submit
+Web->DO->Payments->Payments index->approved//\/\/\/\/\/\/\/\/\/\\
+
+Web->DO->sample distribution->"create" & save->kon MO k kon product disi sheita dekhbe
+web->super admin->promotion/bonus->"create"->APk theke order korar shomoy "bonus" add kora jabe.
+
+APk->FM->"Reporting Place"->input data->"Attendance"->input data & check drop-down
+super admin->search & approved
+FM nijer & under er sobar location verify kore dai//\/\/\/\/\/\/\/\/\/\\
+
+TA/DA->only create from MO (APK) & view from web (Super admin)
+
+Doctor visit, Chemist Visit->Login->apk->MO->Visit->create & submit->
+DO/Super admin can search & see it
+
+APK->MO->Market Feedback->create & submit->
+Login web DO->Employee feedback & search
+
+
+
+Market Return->DO
+
